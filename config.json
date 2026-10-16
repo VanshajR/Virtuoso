@@ -1,0 +1,15 @@
+{
+  "prefix": "!",
+  "leaveTimeout": 120,
+  "youtubeEnabled": true,
+  "preferOpus": true,
+  "logLevel": "info",
+  "soundcloudClientId": "",
+  "preferSoundCloud": true,
+  "defaultCommanderRole": "Virtuoso Commander",
+  "searchResults": 5,
+  "searchTimeoutMs": 60000,
+  "voteSkipRatio": 0.5,
+  "stopRestricted": true,
+  "autoplayDefault": false
+}

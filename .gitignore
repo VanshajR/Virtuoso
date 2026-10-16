@@ -1,0 +1,10 @@
+node_modules/
+.env
+# per-server state the bot writes at runtime
+data/*.json
+!data/.gitkeep
+*.log
+# the vendored yt-dlp-exec downloads its own binary on install
+vendor/*/bin/
+vendor/*/node_modules/
+*.tgz
